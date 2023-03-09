@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/johnbyronA/react-ejercicio-entrys-inputs/static/css/main.99b4a522.css",
+    "main.js": "/johnbyronA/react-ejercicio-entrys-inputs/static/js/main.1afb945f.js",
+    "index.html": "/johnbyronA/react-ejercicio-entrys-inputs/index.html",
+    "main.99b4a522.css.map": "/johnbyronA/react-ejercicio-entrys-inputs/static/css/main.99b4a522.css.map",
+    "main.1afb945f.js.map": "/johnbyronA/react-ejercicio-entrys-inputs/static/js/main.1afb945f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.99b4a522.css",
+    "static/js/main.1afb945f.js"
+  ]
+}
